@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name" : "raghav",
+        "dob" : "25/09/2000",
+        "blood_group" : "O+ve",
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "name" : "vijay",
+        "dob" : "13/08/2000",
+        "blood_group" : "A+ve",
+        "gender": "male"
+    },
+    {
+        "id": 3,
+        "name" : "ranjith",
+        "dob" : "30/01/2001",
+        "blood_group" : "B+ve",
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "name" : "ajith",
+        "dob" : "01/05/1995",
+        "blood_group" : "O+ve",
+        "gender": "male"
+    },
+    {
+        "id": 5,
+        "name" : "shalini",
+        "dob" : "12/10/2000",
+        "blood_group" : "O+ve",
+        "gender": "female"
+    },
+    {
+        "id": 6,
+        "name" : "sanjay",
+        "dob" : "25/09/2000",
+        "blood_group" : "O+ve",
+        "gender": "male"
+    },
+    {
+        "id": 7,
+        "name" : "raghul",
+        "dob" : "25/09/2000",
+        "blood_group" : "O+ve",
+        "gender": "male"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "job_id": 1,
+        "status": "CONFIRMED",
+        "assigned_to": [1, 2]
+    },
+    {
+        "job_id": 2,
+        "status": "ON_MY_WAY",
+        "assigned_to": [2]
+    },
+    {
+        "job_id": 3,
+        "status": "CONFIRMED",
+        "assigned_to": [3]
+    },
+    {
+        "job_id": 4,
+        "status": "STARTED",
+        "assigned_to": [1]
+    },
+    {
+        "job_id": 5,
+        "status": "STARTED",
+        "assigned_to": [3]
+    },
+    {
+        "job_id": 6,
+        "status": "COMPLETED",
+        "assigned_to": [2]
+    },
+    {
+        "job_id": 7,
+        "status": "CONFIRMED",
+        "assigned_to": [4, 7]
+    },
+    {
+        "job_id": 8,
+        "status": "ON_MY_WAY",
+        "assigned_to": [5]
+    },
+    {
+        "job_id": 9,
+        "status": "CONFIRMED",
+        "assigned_to": [6]
+    },
+    {
+        "job_id": 10,
+        "status": "STARTED",
+        "assigned_to": [4]
+    },
+    {
+        "job_id": 11,
+        "status": "STARTED",
+        "assigned_to": [3]
+    },
+    {
+        "job_id": 12,
+        "status": "COMPLETED",
+        "assigned_to": [5]
+    },
+    {
+        "job_id": 13,
+        "status": "COMPLETED",
+        "assigned_to": [4]
+    },
+    {
+        "job_id": 14,
+        "status": "CONFIRMED",
+        "assigned_to": [4, 7]
+    },
+    {
+        "job_id": 15,
+        "status": "ON_MY_WAY",
+        "assigned_to": [6]
+    },
+    {
+        "job_id": 16,
+        "status": "CONFIRMED",
+        "assigned_to": [5]
+    },
+    {
+        "job_id": 17,
+        "status": "STARTED",
+        "assigned_to": [2]
+    },
+    {
+        "job_id": 18,
+        "status": "STARTED",
+        "assigned_to": [5]
+    },
+    {
+        "job_id": 19,
+        "status": "COMPLETED",
+        "assigned_to": [6]
+    }
+]
